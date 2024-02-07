@@ -3,8 +3,8 @@ import cv2
 import numpy as np
 import os
 import time
-# import tkinter
-# from tkinter import filedialog
+import tkinter
+from tkinter import filedialog
 
 
 class FaceRecognizer:
